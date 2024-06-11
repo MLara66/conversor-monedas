@@ -34,8 +34,7 @@ Sea bienvenido al conversor de Monedas
 6) Peso Colombiano =>> Dolar
 7) Salir
 Elija una opcion valida:
-********************************************** 
-```
+**********************************************
 Paso 3 
 Seleccione colocando en numero la opcion que desea realizar
 
@@ -45,7 +44,7 @@ Posteriorme, se le solicitara el valor que desea convertir
 Paso 5
 En unos segundos, dispondra de la informacion solicitada.
 
-
+```
 ## Ejemplo
 
 ```
